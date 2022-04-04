@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Efd4+ciyfqEdAMSu/5yq2oUdkNzUCyMDJ76mNXYp+VaCCHPqEIs5YHJlZZ+LDjoJs88nqe3e5T7kpS1atMHzYg==",
+  "success": true,
+  "projectFilePath": "D:\\-PerGit\\CurrencyConverter\\TestConsole\\ExchangeRates\\ExchangeRates\\ExchangeRates\\ExchangeRates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\testuser\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
